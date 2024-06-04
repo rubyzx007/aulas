@@ -1,0 +1,31 @@
+body {
+    background-color:#2f3668;
+}
+
+a {
+    color: aliceblue;
+}
+
+h1 {
+    color: rgb(213, 188, 247);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+strong{
+    color: rgb(153, 0, 77);
+    font-size: 20px;
+    font-style:italic;
+}
+img{
+    width: 700px;
+    height: 500px;
+    margin-left: 600px;
+    margin-top: 10px;
+}
